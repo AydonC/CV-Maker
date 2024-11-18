@@ -1,0 +1,36 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+form{
+  border-style: solid;
+  padding: 20px;
+  
+}
+
+input{
+  padding: 10px;
+  width: 300px;
+  border-radius: 40px;
+}
+
+.FirstName{
+  margin-right: 30px;
+}
+
+.LastName{
+  margin-left: 30px;
+}
+
+.about{
+  width: 400px;
+  height: 50px;
+  border-radius: 10px;
+}
+
+.inputspace{
+  margin-right: 50px;
+}
